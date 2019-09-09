@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 25px, 50px, 25px;
+    margin: 25px;
+}
+* {
+    background-image: url("images/mainbg.jpg");
+}
+div {
+    background:0%;
+}
+
+h1 {
+    color: white;
+    background: 0%
+}
+h1 {
+    text-decoration: underline
+}
+h2 {
+    color: white;
+    background: 0%;
+    text-decoration: underline;
+}
+p {
+    background: rgba(119, 136, 153, 0.1);
+    box-sizing: border-box;
+    border: 3px black;
+}
+a:link, a:visited {
+    color: white;
+    text-align: center;
+    background-color: #f44336;
+    padding: 14px 25px;
+    text-decoration: none;
+    display: inline-block;
+}
+.center {
+    text-align: center;
+    background: 0%
+}
+.fontSize {
+    font-size: 30px;
+}
+.fontSize2 {
+    font-size: 20px;
+}
+body
+ {
+    background-image: url("images/shenronbg.gif");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+}
+
