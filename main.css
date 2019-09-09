@@ -1,9 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 
 * {
+    font-family: 'Oswald', sans-serif;
+}
+
+* {
     box-sizing: border-box;
     padding: 25px, 50px, 25px;
-    margin: 25px;
+    margin: 10px;
 }
 * {
     background-image: url("images/mainbg.jpg");
@@ -13,6 +17,9 @@ div {
     background:0%;
 }
 
+strong {
+    background: 0%;
+}
 h1 {
     color: white;
     background: 0%
@@ -26,6 +33,7 @@ h2 {
     text-decoration: underline;
 }
 p {
+    color: lightSteelBlue;
     background: 0%;
     box-sizing: border-box;
     border: 3px black;
@@ -51,7 +59,7 @@ a:link, a:visited {
 body
  {
     background-image: url("images/shenronbg.gif");
-    background-position: right bottom;
+    background-position: top right;
     background-repeat: no-repeat;
 }
 
