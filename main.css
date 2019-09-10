@@ -44,6 +44,14 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
 }
+.container {
+    display: flex;
+    min-height: 5vh;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-grow: 1;
+}
+
 .center {
     text-align: center;
     background: 0%
@@ -56,8 +64,9 @@ a:link, a:visited {
 }
 body
  {
-    background-image: url("images/shenronbg.gif");
-    background-position: top right;
+    background-image: url("images/shenronmain.png");
+    background-position: bottom right;
     background-repeat: no-repeat;
+    background-size: 25%;
 }
 
