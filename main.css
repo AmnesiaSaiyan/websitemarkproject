@@ -43,7 +43,7 @@ a:link, a:visited {
     color: white;
     text-align: center;
     padding: 14px 25px;
-    text-decoration: none;
+    text-decoration: underline;
     display: inline-block;
     text-shadow: 2px 2px 4px #000000;
 }
