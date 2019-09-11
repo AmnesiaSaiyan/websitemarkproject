@@ -23,7 +23,8 @@ strong {
 h1 {
     color: white;
     background: 0%;
-    text-decoration: underline
+    text-decoration: underline;
+    text-shadow: 2px, 2px, black;
 }
 h2 {
     color: white;
@@ -51,7 +52,20 @@ a:link, a:visited {
     justify-content: space-around;
     flex-grow: 1;
 }
+.indexHeight1 {
+    height: 100vh;
+}
+.unit1Height {
+    height:345vh;
+}
 
+.colorTag {
+    color:white;
+}
+
+.unit2Height {
+    height: 260vh;
+}
 .center {
     text-align: center;
     background: 0%
