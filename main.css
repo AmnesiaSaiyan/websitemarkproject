@@ -40,7 +40,7 @@ p {
     text-shadow: 2px 2px 4px #000000;
 }
 a:link, a:visited {
-    color: white;
+    color:white;
     text-align: center;
     padding: 14px 25px;
     text-decoration: underline;
@@ -67,6 +67,9 @@ a:link, a:visited {
 }
 .colorTag {
     color:white;
+}
+.colorLink {
+    color: red;
 }
 
 .unit2Height {
