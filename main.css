@@ -62,7 +62,9 @@ a:link, a:visited {
 .unit1Height {
     height:345vh;
 }
-
+.hide {
+    background: transparent;
+}
 .colorTag {
     color:white;
 }
