@@ -14,11 +14,11 @@
     background-attachment: fixed;
 }
 div {
-    background:0%;
+    background: transparent;
 }
 
 strong {
-    background: 0%;
+    background: transparent;
 }
 h1 {
     color: white;
@@ -28,13 +28,13 @@ h1 {
 }
 h2 {
     color: white;
-    background: 0%;
+    background: transparent;
     text-decoration: underline;
     text-shadow: 2px 2px 4px #000000;
 }
 p {
     color: lightSteelBlue;
-    background: 0%;
+    background: transparent;
     box-sizing: border-box;
     border: 3px black;
     text-shadow: 2px 2px 4px #000000;
@@ -74,7 +74,7 @@ a:link, a:visited {
 }
 .center {
     text-align: center;
-    background: 0%
+    background: transparent
 }
 .fontSize {
     font-size: 30px;
